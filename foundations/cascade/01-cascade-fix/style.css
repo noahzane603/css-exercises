@@ -13,37 +13,36 @@ body {
   font-size: 22px;
 }
 
+.button {
+  background-color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+  font-size: 20px;
+}
+div.text {
+  color: rgb(0, 0, 0);
+  font-size: 22px;
+  font-weight: 100;
+}
+
 .small-para {
   font-size: 14px;
   font-weight: 800;
 }
 
 .text.child {
- font-weight : 800; 
-}
-
-
-.button {
-  background-color: rgb(255, 255, 255);
-  color: rgb(0, 0, 0);
-  font-size: 20px;
+  font-weight : 800; 
+  font-size:16px;
 }
 
 .button.confirm {
   background: green;
   color: white;
   font-weight: bold;
-} 
+}
 
 
 .child {
   color: rgb(0, 0, 0);
   font-weight: 800;
   font-size: 14px;
-}
-
-div.text {
-  color: rgb(0, 0, 0);
-  font-size: 22px;
-  font-weight: 100;
 }
